@@ -1,0 +1,30 @@
+{
+  "contact": {
+    "name": "Ross Dingyan Jiao",
+    "mobile": "6463980902",
+    "email": "rossjiao122@gmail.com",
+    "telegram": "Ross Jiao",
+    "github": "https://github.com/RossJiao"
+  },
+  "week": "2026-05-25 to 2026-05-29",
+  "projects_completed": [
+    {
+      "name": "State Capitals Project",
+      "size": "Small",
+      "part1": "Created JSON with 50 states + DC addresses",
+      "part2": "Added latitude and longitude coordinates using urllib",
+      "github": "https://github.com/RossJiao/state-capitals-project"
+    }
+  ],
+  "mit_course": {
+    "lectures_completed": [1, 2, 3, 4],
+    "topics": ["Data types", "Branching", "Loops", "String manipulation", "Guess and check", "Bisection search", "Functions", "Decomposition", "Abstraction"]
+  },
+  "next_week": {
+    "lectures": [5, 6, 7],
+    "projects": ["FizzBuzz", "another Small project"]
+  },
+  "issues": [
+    "SSL certificate error with geopy on Mac - switched to urllib"
+  ]
+}
