@@ -1,0 +1,54 @@
+{
+  "contact_info": {
+    "name": "Ross Dingyan Jiao",
+    "phone": "6463980902",
+    "email": "rossjiao122@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "06/01 – 06/05",
+    "subject": {
+      "title": "Gallon Bucket Problem & State Capitals Project",
+      "repository": "https://github.com/RossJiao/gallon-bucket-project",
+      "details": [
+        "Completed State Capitals Project: generated JSON with 50 states + DC addresses and coordinates",
+        "Completed Gallon Bucket Problem: solved 4-gallon puzzle using BFS in 7 steps",
+        "Pushed both projects to GitHub with README documentation",
+        "Completed MIT Python Lectures 1 through 8"
+      ]
+    },
+    "notes": [
+      "State Capitals: used urllib to call Nominatim API, handled SSL issues manually",
+      "Gallon Bucket: implemented BFS to find shortest path, final state (0,4) with 7 steps",
+      "MIT Lectures 1-8 covered: data types, branching, loops, strings, functions, recursion, dictionaries, testing, debugging",
+      "Both projects are public on GitHub with README and sample outputs"
+    ],
+    "plan_next_week": [
+      "Complete MIT Lectures 9, 10, 11",
+      "Complete FizzBuzz project",
+      "Complete TABIND Scrabble project",
+      "Update weekly report"
+    ],
+    "hours_worked": 15,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account",
+      "Create a GitHub account",
+      "Watch Python Lectures from MIT: Lectures 1-8 completed",
+      "Work on Assigned Projects: State Capitals, Gallon Bucket Problem",
+      "Push completed projects to GitHub",
+      "Attend daily standup calls",
+      "Take notes and produce weekly report"
+    ],
+    "current_links": {
+      "State Capitals Project": "https://github.com/RossJiao/state-capitals-project",
+      "Gallon Bucket Project": "https://github.com/RossJiao/gallon-bucket-project",
+      "Weekly Reports": "https://github.com/RossJiao/EMRTS"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-06-05_Ross_Dingyan_Jiao.pdf",
+      "date": "06/01 – 06/05"
+    }
+  }
+}
