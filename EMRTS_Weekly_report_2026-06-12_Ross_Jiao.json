@@ -1,0 +1,58 @@
+{
+  "contact_info": {
+    "name": "Ross Jiao",
+    "email": "rossdingyanjiao@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "06/08 - 06/12",
+    "subject": {
+      "title": "TABIND Scrabble Project & GitHub Profile Update",
+      "details": [
+        "TABIND Scrabble Project (https://github.com/RossJiao/scrabble-project): Developed a Python program that finds all valid Scrabble words from the letters 'tabind'. Switched to official SOWPODS Scrabble dictionary (178,691 words), finding 49 legitimate Scrabble words.",
+        "GitHub Profile Update (https://github.com/RossJiao): Created profile README with personal introduction and project table. All repositories now have detailed README files.",
+        "MIT 6.0001 Python Lectures: Completed Lectures 1 through 11."
+      ]
+    },
+    "notes": [
+      "The SOWPODS dictionary is the official international Scrabble word list used in competitions outside North America.",
+      "Switching to the Scrabble dictionary improved result accuracy — the previous system dictionary included many non-Scrabble words.",
+      "GitHub profile now matches the organization standards discussed in team meetings."
+    ],
+    "plan_next_week": [
+      "Continue MIT 6.0001 Python lectures.",
+      "Work on next assigned project.",
+      "Continue learning Bash and Elixir."
+    ],
+    "hours_worked": 20,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-11)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "Push all projects to GitHub with README documentation"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao",
+      "Scrabble Project": "https://github.com/RossJiao/scrabble-project"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-06-12_Ross_Jiao.pdf",
+      "date": "06/08 - 06/12"
+    }
+  }
+}
