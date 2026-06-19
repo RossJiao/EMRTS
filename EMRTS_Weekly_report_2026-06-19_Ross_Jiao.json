@@ -1,0 +1,64 @@
+{
+  "contact_info": {
+    "name": "Ross Jiao",
+    "email": "rossdingyanjiao@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "06/15 - 06/19",
+    "subject": {
+      "title": "FizzBuzz Project & Provider Lookup Project (in progress)",
+      "details": [
+        "FizzBuzz Project (https://github.com/RossJiao/fizzbuzz-project): Developed a Python program that prints numbers from 1 to 100, replacing multiples of 3 with Fizz, multiples of 5 with Buzz, and multiples of both with FizzBuzz. Pushed to GitHub with README documentation.",
+        "Provider Lookup Project (in progress): Started building a system that allows users to search for and locate healthcare providers. Reviewed data sources including NPI Registry, NPI Files, and NUCC Provider Taxonomy.",
+        "MIT 6.0001 Python Lectures: Completed Lectures 1 through 12."
+      ]
+    },
+    "notes": [
+      "FizzBuzz project completed and pushed to GitHub with full README documentation.",
+      "Provider Lookup Project is currently in progress — reviewing NPI data sources and planning system design.",
+      "NPI (National Provider Identifier) is a unique identification number for covered healthcare providers in the US."
+    ],
+    "plan_next_week": [
+      "Complete the Provider Lookup Project.",
+      "Continue MIT 6.0001 Python lectures.",
+      "Continue learning Bash and Elixir."
+    ],
+    "hours_worked": 20,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "https://mermaid-js.github.io/mermaid/#/",
+      "https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-12)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "FizzBuzz Project - completed",
+      "Provider Lookup Project - in progress"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao",
+      "FizzBuzz Project": "https://github.com/RossJiao/fizzbuzz-project",
+      "NPI Registry": "https://npiregistry.cms.hhs.gov/search",
+      "NPI Files": "https://download.cms.gov/nppes/NPI_Files.html",
+      "NUCC Provider Taxonomy": "https://www.nucc.org/index.php/code-sets-mainmenu-41/provider-taxonomy-mainmenu-40/csv-mainmenu-57"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-06-19_Ross_Jiao.pdf",
+      "date": "06/15 - 06/19"
+    }
+  }
+}
