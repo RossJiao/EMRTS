@@ -1,0 +1,63 @@
+{
+  "contact_info": {
+    "name": "Ross Jiao",
+    "email": "rossdingyanjiao@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "06/23 - 06/27",
+    "subject": {
+      "title": "Bookstore Project & Provider Lookup Project",
+      "details": [
+        "Bookstore Project (https://github.com/RossJiao/bookstore-project): Built an end-to-end e-commerce platform for books. Implemented book search, order placement, unique order ID generation, and eBook placeholder creation. Integrated email confirmation with order details and file attachments using Gmail SMTP.",
+        "Provider Lookup Project (https://github.com/RossJiao/provider-lookup-project): Developed an interactive command-line tool to search healthcare providers. Integrated with the official NPPES NPI Registry API to fetch real-time provider data. Displays provider details including NPI number, name, address, specialty, and license.",
+        "MIT 6.0001 Python Lectures: Completed Lectures 1 through 15."
+      ]
+    },
+    "notes": [
+      "Bookstore Project completed with full email integration and GitHub documentation.",
+      "Provider Lookup Project completed using live NPPES NPI Registry API.",
+      "NPI (National Provider Identifier) is a unique identification number for covered healthcare providers in the US."
+    ],
+    "plan_next_week": [
+      "Awaiting feedback on database implementation for Bookstore Project.",
+      "Continue MIT 6.0001 Python lectures."
+    ],
+    "hours_worked": 20,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-15)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "FizzBuzz Project - completed",
+      "Provider Lookup Project - completed",
+      "Bookstore Project - completed"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao",
+      "Bookstore Project": "https://github.com/RossJiao/bookstore-project",
+      "Provider Lookup Project": "https://github.com/RossJiao/provider-lookup-project",
+      "NPI Registry": "https://npiregistry.cms.hhs.gov/search",
+      "NPI Files": "https://download.cms.gov/nppes/NPI_Files.html",
+      "NUCC Provider Taxonomy": "https://www.nucc.org/index.php/code-sets-mainmenu-41/provider-taxonomy-mainmenu-40/csv-mainmenu-57"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-06-27_Ross_Jiao.pdf",
+      "date": "06/23 - 06/27"
+    }
+  }
+}
