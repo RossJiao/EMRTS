@@ -1,0 +1,67 @@
+{
+  "contact_info": {
+    "name": "Ross Dingyan Jiao",
+    "phone": "6463980902",
+    "email": "rossjiao122@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "06/30 - 07/03",
+    "subject": {
+      "title": "Bookstore Project - Database Normalization & Django Web Interface",
+      "details": [
+        "Bookstore Project - Database Normalization & Django Web Interface (https://github.com/RossJiao/bookstore-project): Refactored Bookstore database to Third Normal Form (3NF). Created authors table with first_name, last_name, bio, birth_year. Created book_authors association table for many-to-many relationship. Added publisher and quantity_on_hand to books table. Split orders into orders header and order_details tables. Changed order_id to numeric primary key with order_number as business key. Added NOT NULL constraints on all non-key columns.",
+        "Built Django web interface: Created search page supporting title, author (first/last name), and genre search. Created order page with form for name, email, quantity, and mobile. Integrated stock management (auto-deduct on order). Admin panel for managing books, authors, and orders.",
+        "Imported 50 books from Open Library API using custom management command. Updated dbdiagram.io ERD to match new database schema. Deployed development server and tested end-to-end flow. Added README with setup instructions.",
+        "MIT 6.0001 Python Lectures: Completed Lectures 1 through 16."
+      ]
+    },
+    "notes": [
+      "Database normalization eliminates data redundancy and allows multiple authors per book.",
+      "Django search uses Q objects for multi-field searching.",
+      "Orders are stored with header/details pattern for scalability.",
+      "Stock updates automatically when orders are placed.",
+      "Email sending causes a few seconds delay (needs async improvement)."
+    ],
+    "plan_next_week": [
+      "Deploy Django app to dev server.",
+      "Add user authentication (login/register).",
+      "Improve UI with better styling.",
+      "Add order history page."
+    ],
+    "hours_worked": 30,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-16)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "FizzBuzz Project - completed",
+      "Provider Lookup Project - completed",
+      "Bookstore Project - in progress"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao",
+      "Bookstore Project": "https://github.com/RossJiao/bookstore-project",
+      "dbdiagram.io": "https://dbdiagram.io/",
+      "Open Library API": "https://openlibrary.org/developers/api"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-07-03_Ross_Dingyan_Jiao.pdf",
+      "date": "06/30 - 07/03"
+    }
+  }
+}
