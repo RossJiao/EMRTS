@@ -1,0 +1,70 @@
+{
+  "contact_info": {
+    "name": "Ross Dingyan Jiao",
+    "phone": "6463980902",
+    "email": "rossjiao122@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "07/07 - 07/10",
+    "subject": {
+      "title": "Provider Exclusion List Project",
+      "details": [
+        "Provider Exclusion List Project: Downloaded OIG LEIE (List of Excluded Individuals/Entities) CSV file from the official HHS OIG website.",
+        "Imported 83,464 exclusion records into SQLite database using Python.",
+        "Designed database schema with fields: last_name, first_name, business_name, npi, state, city, address, specialty, exclusion_type, exclusion_date, reinstatement_date, waiver_date, waiver_state.",
+        "Added indexes on searchable fields (last_name, npi, state, city) for fast queries.",
+        "Built Django web interface integrated with existing Bookstore project.",
+        "Implemented search functionality by: name, business name, NPI, state, and city.",
+        "Display results with badges distinguishing individuals from organizations.",
+        "Created ERD diagram for database documentation.",
+        "Pushed code to GitHub."
+      ]
+    },
+    "notes": [
+      "OIG LEIE is the official federal database of excluded healthcare providers.",
+      "Organizations cannot receive payment from Federal health care programs if excluded.",
+      "Data is updated monthly by OIG.",
+      "Search results show exclusion type and date.",
+      "Django app is accessible at /exclusion/ path."
+    ],
+    "plan_next_week": [
+      "Begin next project (TBD).",
+      "Continue MIT Python lectures.",
+      "Improve UI styling."
+    ],
+    "hours_worked": 20,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-16)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "FizzBuzz Project - completed",
+      "Provider Lookup Project - completed",
+      "Bookstore Project - completed",
+      "Provider Exclusion List Project - completed"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao",
+      "OIG LEIE": "https://oig.hhs.gov/exclusions/exclusions_list.asp"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-07-10_Ross_Dingyan_Jiao.pdf",
+      "date": "07/07 - 07/10"
+    }
+  }
+}
