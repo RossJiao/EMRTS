@@ -1,0 +1,64 @@
+{
+  "contact_info": {
+    "name": "Ross Dingyan Jiao",
+    "phone": "6463980902",
+    "email": "rossjiao122@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "07/20 - 07/24",
+    "subject": {
+      "title": "NASPO Catalog Project (Completed) & MMIS AI Project (Learning Phase)",
+      "details": [
+        "NASPO Catalog Project (https://github.com/RossJiao/naspo-catalog-project): Downloaded 4 NASPO Excel files from Vesta server (new server: 107.181.252.194). Imported 1,015,548 records into SQLite database using Python and pandas. Built Django web interface for searching the NASPO procurement catalog. Search supports: product description, vendor name, manufacturer part number. Deployed locally and tested with sample queries (Q247, license). Pushed code to GitHub (excluding large database file). Created dbdiagram.io ERD and presentation slides.",
+        "MMIS AI - Electronic Claim Entry & Submission Portal (Learning Phase): Assigned to Group 2: Creating ANSI X12 837P from database records. Team lead: Le Luo. Watched EDI X12 and 837P tutorial videos. Had 1-on-1 meeting with Amanda to align on project expectations. Reviewed CMS-1500 to 837P mapping document. Understanding of X12 837P structure: ISA/GS envelope, Loop 2000 (patient), Loop 2300 (claim), Loop 2400 (service lines)."
+      ]
+    },
+    "notes": [
+      "NASPO Catalog: 1M+ products indexed and searchable.",
+      "X12 837P is the electronic version of the CMS-1500 paper form.",
+      "ICD-10, CPT, HCPCS codes are used in the claim.",
+      "MMIS project is still in learning phase — no code written yet."
+    ],
+    "plan_next_week": [
+      "Continue X12 837P research.",
+      "Start Postgres database table design for CMS-1500 data.",
+      "Await coding assignments from Group 2 lead (Le Luo)."
+    ],
+    "hours_worked": 16,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-16)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "FizzBuzz Project - completed",
+      "Provider Lookup Project - completed",
+      "Bookstore Project - completed",
+      "Provider Exclusion List Project - completed",
+      "NASPO Catalog Project - completed",
+      "MMIS AI Project - in progress"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao",
+      "NASPO Catalog Project": "https://github.com/RossJiao/naspo-catalog-project"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-07-24_Ross_Dingyan_Jiao.pdf",
+      "date": "07/20 - 07/24"
+    }
+  }
+}
