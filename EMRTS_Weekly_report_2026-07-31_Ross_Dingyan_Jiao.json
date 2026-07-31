@@ -1,0 +1,65 @@
+{
+  "contact_info": {
+    "name": "Ross Dingyan Jiao",
+    "phone": "6463980902",
+    "email": "rossjiao122@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "07/27 - 07/31",
+    "subject": {
+      "title": "Traveling Politician Project (In Progress) & NASPO Catalog Improvements & MMIS AI Setup",
+      "details": [
+        "Traveling Politician Project (In Progress): Set up project structure and loaded state capitals data with coordinates. Implemented Haversine formula for distance calculation. Built greedy algorithm to find a route starting from Des Moines, Iowa, visiting all state capitals, and ending in Washington, DC. Currently testing the route output and preparing for optimization. Plan to add 2-opt improvement and route visualization.",
+        "NASPO Catalog Project (Improvements): Split single search box into two separate fields: Vendor search and Product/Description search. Updated price display format to show commas and two decimal places (e.g., $6,000.00). Used Django humanize template filters for better formatting.",
+        "MMIS AI - Electronic Claim Entry & Submission Portal: Downloaded and ran Chao's PATO application locally. Reviewed the database schema and C4 model diagrams."
+      ]
+    },
+    "notes": [
+      "Haversine formula calculates great-circle distance between two points on Earth using latitude and longitude.",
+      "The greedy algorithm selects the nearest unvisited capital at each step.",
+      "2-opt optimization will improve the route by swapping path segments to reduce total distance.",
+      "Django humanize filters provide human-readable number formatting without custom code."
+    ],
+    "plan_next_week": [
+      "Complete Traveling Politician Project with 2-opt optimization and route visualization.",
+      "Continue MMIS AI Project development.",
+      "Continue MIT Python lectures."
+    ],
+    "hours_worked": 18,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-16)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "FizzBuzz Project - completed",
+      "Provider Lookup Project - completed",
+      "Bookstore Project - completed",
+      "Provider Exclusion List Project - completed",
+      "NASPO Catalog Project - completed",
+      "MMIS AI Project - in progress",
+      "Traveling Politician Project - in progress"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-07-31_Ross_Dingyan_Jiao.pdf",
+      "date": "07/27 - 07/31"
+    }
+  }
+}
