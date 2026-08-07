@@ -1,0 +1,68 @@
+{
+  "contact_info": {
+    "name": "Ross Dingyan Jiao",
+    "phone": "6463980902",
+    "email": "rossjiao122@gmail.com",
+    "github": "https://github.com/RossJiao"
+  },
+  "weekly_report": {
+    "week": "08/03 - 08/07",
+    "subject": {
+      "title": "Traveling Politician Project (Completed) & Medicaid Forecasting Project (Started) & MMIS AI Workflow Setup",
+      "details": [
+        "Traveling Politician Project (https://github.com/RossJiao/traveling-politician-project): Implemented greedy algorithm to find route from Des Moines, Iowa to Washington, DC visiting all 50 state capitals. Used Haversine formula for distance calculation. Handled Alaska and Hawaii as special cases at the end of route. Total route distance: 22,539 miles. Code and route output pushed to GitHub.",
+        "Medicaid Enrollment and Expenditure Forecasting Project (Started): Reviewed project objective: forecast annual Medicaid enrollments and expenditures nationwide and state-specific for the next 10 years. Read EMRTS blog post on Medicaid enrollment reflections. Identified data sources (CMS, KFF) and began researching available datasets.",
+        "MMIS AI - Electronic Claim Entry & Submission Portal: Project restructured: combined X12 generation and transmission groups into single Back End team. Reviewed GitHub collaboration workflow guide. Accessed shared repository: https://github.com/ShawnLeeTech/emr-claim-entry-portal. Attended Le's X12 837P introduction session - learned about ISA/IEA envelope structure and Loops (1000, 2000, 2300). Reviewed Chao's database schema updates (new insurance policy and coverage tables)."
+      ]
+    },
+    "notes": [
+      "Traveling Politician uses greedy approximation; 2-opt optimization planned but not yet implemented.",
+      "Medicaid project currently in data discovery phase.",
+      "MMIS AI now uses GitHub PR workflow (branch -> commit -> push -> pull request -> review)."
+    ],
+    "plan_next_week": [
+      "Continue Medicaid Forecasting Project: obtain data, begin exploratory analysis.",
+      "Complete Traveling Politician 2-opt optimization.",
+      "Continue X12 837P learning and PyX12 exploration."
+    ],
+    "hours_worked": 20,
+    "intern_checklist": [
+      "Receive the internship offer letter",
+      "Accept the terms of the offer letter",
+      "Create a Telegram account and be added into group chat",
+      "Create a LinkedIn account (Connect with Verbus, and other interns in the program. Then join MMIS Professionals and Mostly Medicaid (Medicaid Professionals))",
+      "Create a GitHub account",
+      "Please use Mermaid in your documentation.",
+      "Recommended AI assistant is CLAUDE",
+      "Attend the daily standup calls",
+      "Take notes and produce weekly report (due Friday's, Saturdays at the latest)",
+      "PDF (EMRTS_Weekly_report_date_firstname_lastname.pdf)",
+      "JSON (EMRTS_Weekly_report_date_firstname_lastname.json)",
+      "Watch the Python Lectures from MIT (Lectures 1-16)",
+      "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "Work on the Assigned Project",
+      "State Capitals Project - completed",
+      "4-Gallon Water Bucket Problem - completed",
+      "TABIND Scrabble Project - completed",
+      "FizzBuzz Project - completed",
+      "Provider Lookup Project - completed",
+      "Bookstore Project - completed",
+      "Provider Exclusion List Project - completed",
+      "NASPO Catalog Project - completed",
+      "Traveling Politician Project - completed",
+      "MMIS AI Project - in progress",
+      "Medicaid Enrollment and Expenditure Forecasting Project - in progress"
+    ],
+    "current_links": {
+      "EMR TECHNICAL SOLUTIONS, LLC": "https://emrts.us/",
+      "GitHub": "https://github.com/RossJiao",
+      "Traveling Politician Project": "https://github.com/RossJiao/traveling-politician-project",
+      "Weekly Reports": "https://github.com/RossJiao/EMRTS",
+      "MMIS AI Shared Repo": "https://github.com/ShawnLeeTech/emr-claim-entry-portal"
+    },
+    "file_info": {
+      "file_name": "EMRTS_Weekly_report_2026-08-07_Ross_Dingyan_Jiao.pdf",
+      "date": "08/03 - 08/07"
+    }
+  }
+}
